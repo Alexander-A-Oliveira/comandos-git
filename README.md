@@ -1,4 +1,4 @@
-# Repositório de exemplo
+# Repositório de Exemplo
 
 # Para configurar o GIT em seu computador:
 
